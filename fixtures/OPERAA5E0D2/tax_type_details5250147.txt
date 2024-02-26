@@ -1,0 +1,793 @@
+				Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	
+																
+																	
+		100	Hertzbach,David		 86.58	N	02-18-23					 247.82						
+		101	Hetzel,Louise		 88.00	N	02-17-23					 385.60						
+		104	Griffin,Jennifer		 107.10	N	02-18-23					 273.60						
+		109	Bateson,Deborah		 112.00	N	02-19-23					 112.00						
+		111	Gordon,Dixie		 90.90	N	02-18-23					 273.60						
+		112	Mcvaugh,Charles		 98.00	N	02-19-23					 98.00						
+		115	Mcvaugh,Charles		 98.00	N	02-18-23					 196.00						
+		116	Crane,Bill		 100.80	N	02-19-23					 100.80						
+		200	Nevin,James		 87.88	N	02-18-23					 215.47						
+		201	Hyatt,Sarah		 105.00	N	02-19-23					 105.00						
+		202	Rupp,Jonathan		 123.30	N	02-17-23					 472.50						
+		203	Needham,Michael		 98.00	N	02-18-23					 196.00						
+		205	Bruder,Thomas		 69.77	N	02-18-23					 180.96						
+		207	Luchino,Toni Lee		 69.00	N	02-17-23					 207.00						
+		208	Wagner,Victoria		 94.16	N	02-17-23					 399.52						
+		209	Tikkala,Mike		 110.00	N	02-18-23					 245.00						
+		211	Miller,Elizabeth		 69.00	N	02-18-23					 138.00						
+		216	Stock,Christina		 137.55	N	02-18-23					 374.85						
+		219	Smith,Traci		 100.91	N	02-18-23					 221.47						
+		220	Kammar,Colleen		 69.00	N	02-18-23					 138.00						
+		221	Schoenagel,Margaret		 100.80	N	02-19-23					 100.80						
+		223	Hare,Patrick		 84.00	N	02-18-23					 192.00						
+		224	Sanders,jeanna		 121.50	N	02-19-23					 121.50						
+		225	Harris,Taih		 81.02	N	02-17-23					 327.27						
+		227	Grimm,Crystal		 80.33	N	02-19-23					 80.33						
+		228	Lapchak,Charlie		 107.10	N	02-17-23					 372.60						
+		230	Salois,Braden		 106.99	N	02-18-23					 285.98						
+		232	Hare,Patrick		 84.00	N	02-18-23					 192.00						
+		303	Wendy Yurick,Fritzi		 95.88	N	02-19-23					 95.88						
+		304	Davis,Megan		 109.80	N	02-18-23					 272.70						
+		307	Decoville,Thomas		 85.68	N	02-19-23					 85.68						
+		308	Klubok,Igor		 125.00	N	02-18-23					 352.00						
+						Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																				
+		309	Dangell,Nyah			 98.00	N	02-17-23								 294.00					
+		310	Jennings,Roann			 106.83	N	02-19-23								 106.83					
+		311	becirevic,Ernesa			 94.16	N	02-19-23								 94.16					
+		316	Hetzel,Louise			 117.60	N	02-17-23								 450.40					
+		317	Volkman,Paul,Mr.			 102.00	N	02-17-23								 207.00					
+		318	Gaspar,Gregory			 69.00	N	02-18-23								 138.00					
+		319	Hyde,Ashley			 96.00	N	02-19-23								 96.00					
+		321	Canarvis,Jennifer			 96.00	N	02-19-23								 96.00					
+		323	Hock,Tammy			 107.16	N	02-18-23								 234.07					
+		324	Hermann,Emily			 109.00	N	02-19-23								 109.00					
+		325	Yurick,Thomas			 95.88	N	02-19-23								 95.88					
+		327	Diaz,Jose M			 96.00	N	02-18-23								 194.00					
+		328	Bret,Kimbrough			 97.20	N	02-18-23								 227.70					
+		329	Hung,Changying			 85.60	N	02-19-23								 85.60					
+		330	Murphy,Millard			 108.00	N	02-19-23								 108.00					
+		331	Davila,Peter			 110.00	N	02-18-23								 245.00					
+		332	Yurick,Thomas			 81.02	N	02-19-23								 81.02					
+																
+					Departure Date 02-20-23 Total																
+										 0.00		 0.00		 0.00		 9,922.59	 0.00	 0.00	 0.00	 9,922.59	
+		103	Sutherland,Nichole			 100.70	N	02-19-23								 215.65					
+		104	Dryden,Amy			 88.66	N	02-20-23								 88.66					
+		109	Gittens,Jeremy			 98.00	N	02-21-23								 98.00					
+		110	Holmes,Valarie			 102.51	N	02-19-23								 194.31					
+		115	Bayler,Tom			 122.00	N	02-20-23								 122.00					
+		205	Simms,Craig			 117.00	N	02-20-23								 117.00					
+		207	Bevan,Jenn			 117.00	N	02-20-23								 117.00					
+		214	Wisneski,Matthew			 99.00	N	02-20-23								 99.00					
+		222	Church,William			 122.40	N	02-19-23								 246.40					
+		313	Roan,Christopher			 107.00	N	02-19-23								 213.00					
+		316	Claremont,Kristine			 136.80	N	02-20-23								 136.80					
+						Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from All Tax	Exempt from Federal Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	NOT EXEMPT FOR ALL TAX	Exempt from State Tax	Exempt from State Tax	
+																								
+					Departure Date 02-21-23 Total																				
+										 0.00		 0.00		 0.00		 1,647.82		 0.00		 0.00		 0.00		 1,647.82	
+		115	Robbs,Chase			 108.00	N	02-21-23								 108.00									
+		204	Skinner,Bob			 87.09	N	02-21-23								 87.09									
+		211	Medina,Kelly			 86.67	N	02-20-23								 195.21									
+		321	Bingaman,Lisa			 86.92	N	02-21-23								 86.92									
+		325	Raudabaugh,Hunter			 106.00	N	02-21-23								 106.00									
+		326	Kowolenko,Mike			 112.00	N	02-21-23								 112.00									
+		330	Fazekas,Dennis			 71.40	N	02-21-23								 71.40									
+																				
+					Departure Date 02-22-23 Total																				
+										 0.00		 0.00		 0.00		 766.62		 0.00		 0.00		 0.00		 766.62	
+		100	Krug,Lindsay Autumn			 103.00	N	02-22-23								 102.00									
+		102	Krug,Lindsay Autumn			 113.00	N	02-22-23								 113.00									
+		109	Ingmire,Lance			 113.52	N	02-22-23								 113.52									
+		231	Christinidis,Elizabeth			 89.10	N	02-22-23								 89.10									
+		306	Kuhn,Carissa			 113.00	N	02-22-23								 113.00									
+		313	Clark,James			 113.00	N	02-22-23								 113.00									
+		316	Torres,Jose			 145.00	N	02-22-23								 145.00									
+					Departure Date 02-23-23 Total																				
+										 0.00		 0.00		 0.00		 788.62		 0.00		 0.00		 0.00		 788.62	
+		107	Nowlin,Pamela			 104.00	N	02-23-23								 104.00									
+		111	Sifford,Phil			 93.60	N	02-23-23								 93.60									
+		112	Kaplan,Sonja,Mrs.			 115.20	N	02-23-23								 115.20									
+		114	Carson,Melissa			 178.00	N	02-23-23								 178.00									
+		115	Carson,Melissa			 105.00	N	02-23-23								 105.00									
+		210	Gaston,Donna			 117.92	N	02-19-23								 610.72									
+		231	Frezza,Andrew			 71.15	N	02-23-23								 71.15									
+		301	Hopkins,Kelly			 125.02	N	02-24-23								 250.06									
+		319	Bello Dorsey,Melissa			 79.56	N	02-23-23								 79.56									
+						Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																				
+					Departure Date 02-24-23 Total																
+										 0.00		 0.00		 0.00		 1,607.29	 0.00	 0.00	 0.00	 1,607.29	
+		107	Gaylard,Teresa			 129.00	N	02-24-23								 129.00					
+		108	Devin,Stine			 153.00	N	02-24-23								 153.00					
+		109	Newell,Thomas			 113.52	N	02-24-23								 113.52					
+		111	Lian,Wing			 69.00	N	02-24-23								 69.00					
+		114	Mowery,Bryan			 217.00	N	02-24-23								 217.00					
+		115	Blacksten,Todd			 121.00	N	02-24-23								 121.00					
+		116	Afarian,Courtney			 113.23	N	02-24-23								 113.23					
+		204	Passman,Mike			 133.12	N	02-23-23								 225.46					
+		206	Cappadonia-Swanker,Jennifer			 116.85	N	02-24-23								 116.85					
+		208	Wypij,Jessica			 136.00	N	02-24-23								 136.00					
+		210	Perritt,Austin			 147.19	N	02-24-23								 147.19					
+		211	Castro,Michael			 134.00	N	02-24-23								 134.00					
+		213	Mullins,Karen			 98.00	N	02-23-23								 294.00					
+		214	Humes,Mary			 176.00	N	02-23-23								 303.00					
+		219	Sciubba,Kathy			 107.23	N	02-24-23								 107.23					
+		220	Lofgren Shippee,Karyn			 134.46	N	02-25-23								 134.46					
+		225	Hilderley,Erika			 129.00	N	02-24-23								 129.00					
+		227	Richter,Melissa			 129.00	N	02-24-23								 129.00					
+		230	Lail,Tina			 118.44	N	02-24-23								 118.44					
+		303	Desai,Pragnesh			 117.00	N	02-24-23								 117.00					
+		310	Fisher,Mark			 135.90	N	02-23-23								 135.90					
+		322	Mackenzie,Diana			 111.63	N	02-23-23								 222.36					
+		323	Ullrich,Andrew			 109.00	N	02-24-23								 109.00					
+		332	Wade Palmer,Ginger			 96.66	N	02-24-23								 96.66					
+					Departure Date 02-25-23 Total																
+										 0.00		 0.00		 0.00		 3,571.30	 0.00	 0.00	 0.00	 3,571.30	
+						Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	
+																			
+		101	Beaver,Doug			 176.00	N	02-25-23						 176.00						
+		103	Hurley,Rachelle			 132.63	N	02-25-23						 132.63						
+		104	Kiehl,Brian			 69.00	N	02-24-23						 138.00						
+		106	Juliano,Jeffrey M.			 189.90	N	02-24-23						 374.40						
+		107	Miller,Elizabeth			 69.00	N	02-25-23						 69.00						
+		108	VanSickle			 192.00	N	02-25-23						 98.00						
+		109	Miller,Elizabeth			 69.00	N	02-25-23						 69.00						
+		110	Carrigan,Kristen			 137.74	N	02-25-23						 137.74						
+		111	Miller,Mark			 130.13	N	02-25-23						 130.13						
+		112	Williams,Deshawne			 146.70	N	02-24-23						 284.40						
+		115	Webster,John			 126.28	N	02-26-23						 126.28						
+		116	Carlson,Timothy			 139.00	N	02-25-23						 139.00						
+		200	Urban,Molly			 118.50	N	02-25-23						 118.50						
+		201	Blaine,Tara			 120.60	N	02-25-23						 120.60						
+		202	Boler,Brayton			 165.44	N	02-24-23						 313.01						
+		203	Brown,Josephine			 120.60	N	02-25-23						 120.60						
+		205	Geppi,Mady			 111.20	N	02-24-23						 215.20						
+		206	Wolf,Sarah			 142.56	N	02-25-23						 142.56						
+		207	Urban,Molly			 118.50	N	02-26-23						 118.50						
+		208	Pecorelli,Dan			 113.23	N	02-25-23						 113.23						
+		209	Wise,Zachary			 131.40	N	02-24-23						 261.00						
+		210	Curren,Marianne,Ms.			 30.00	N	02-25-23						 27.03						
+		211	Harr,Misaki			 112.65	N	02-25-23						 112.65						
+		212	Steve,Curtis			 140.00	N	02-24-23						 270.00						
+		214	Lugo,Diana			 126.90	N	02-25-23						 126.90						
+		216	Steve,Denise			 170.10	N	02-24-23						 323.10						
+		217	Fritz,Molly			 135.00	N	02-25-23						 135.00						
+		219	Vazquez,Luz			 107.23	N	02-25-23						 107.23						
+		220	Lyles,Megan			 192.00	N	02-25-23						 192.00						
+		221	Haven,Tyler			 0.00	N	02-24-23						 116.10						
+		222	Steve,Calvin			 126.90	N	02-24-23						 253.80						
+		224	Janovsky,Charles			 130.13	N	02-25-23						 130.13						
+						Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																				
+		225	vazquez,Yajaira			 83.60	N	02-25-23								 83.60					
+		226	Williams,Ronlanda			 158.00	N	02-24-23								 311.00					
+		228	Budde,James			 145.00	N	02-25-23								 145.00					
+		231	Dujakovich,Michal			 139.00	N	02-25-23								 139.00					
+		232	Smith,Tanya			 112.59	N	02-24-23								 217.89					
+		300	Morrison,Christian			 98.68	N	02-25-23								 98.68					
+		303	Cao,Dawna			 104.28	N	02-25-23								 104.28					
+		304	Gray,Devonte			 148.50	N	02-24-23								 282.60					
+		307	Gonzalez,Mark			 126.91	N	02-25-23								 126.91					
+		308	Perry,Marcella			 139.04	N	02-24-23								 276.32					
+		309	Waters,Jeffrey			 76.70	N	02-23-23								 228.51					
+		310	Steve,Javannie			 140.00	N	02-24-23								 270.00					
+		311	Dysert,Phil			 134.00	N	02-25-23								 134.00					
+		313	Nemo,Jessica			 131.22	N	02-25-23								 131.22					
+		314	Crumpton,Gabriela			 134.40	N	02-24-23								 267.20					
+		316	Young,Crystal			 157.50	N	02-24-23								 314.10					
+		318	Young,Crystal			 157.50	N	02-24-23								 306.00					
+		319	Kren,Amanda			 98.11	N	02-24-23								 196.22					
+		321	Smythe,Troy			 107.24	N	02-24-23								 214.48					
+		322	Kammar,Colleen			 69.00	N	02-25-23								 69.00					
+		323	vazquez,Yajaira			 83.60	N	02-25-23								 83.60					
+		324	Linda,Rohr			 110.29	N	02-25-23								 110.29					
+		325	Suarez,Ivan			 75.00	N	02-23-23								 225.00					
+		326	ODonnell,Kathleen			 69.00	N	02-25-23								 69.00					
+		327	Suarez,Ivan			 75.00	N	02-23-23								 225.00					
+		328	Holliday,Lorri			 146.70	N	02-24-23								 290.70					
+		329	Suarez,Ivan			 75.00	N	02-23-23								 225.00					
+		330	Melgar,Paola			 134.64	N	02-23-23								 355.73					
+		331	Vazquez,Charinna			 136.30	N	02-25-23								 136.30					
+		332	Vazquez,Marvin			 98.00	N	02-25-23								 98.00					
+																
+					Departure Date 02-26-23 Total																
+										 0.00		 0.00		 0.00		 10,926.35	 0.00	 0.00	 0.00	 10,926.35	
+						Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from All Tax	Exempt from Federal Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	NOT EXEMPT FOR ALL TAX	Exempt from State Tax	Exempt from State Tax	
+																								
+		114	Humphrey,Natasha			 144.90	N	02-26-23								 144.90									
+		215	Palchesko,Rose			 90.90	N	02-23-23								 424.80									
+		223	Ormsby,Patricia			 90.90	N	02-23-23								 424.80									
+		302	Barranco,Robert			 87.94	N	02-24-23								 321.95									
+		306	Volkman,Paul,Mr.			 69.00	N	02-24-23								 207.00									
+		311	Klein,Susan			 112.99	N	02-26-23								 112.99									
+		331	Eldridge,Thomas			 30.00	N	02-26-23								 27.03									
+																				
+					Departure Date 02-27-23 Total																				
+										 0.00		 0.00		 0.00		 1,663.47		 0.00		 0.00		 0.00		 1,663.47	
+		200	Kurtz,Jay			 86.00	N	02-27-23								 86.00									
+		202	Salinas,Luis,Mr.			 119.00	N	02-28-23								 119.00									
+		206	Lang,Krystal,Ms.			 120.00	N	02-27-23								 120.00									
+		307	Robert,Raymond			 104.00	N	02-26-23								 209.00									
+		312	Diplacido,Matthew			 124.20	N	02-25-23								 419.40									
+		313	Weremecki,Michael,Mr.			 64.20	N	02-27-23								 64.20									
+																				
+					Departure Date 02-28-23 Total																				
+										 0.00		 0.00		 0.00		 1,017.60		 0.00		 0.00		 0.00		 1,017.60	
+		116	Hill,Theodore			 50.00	N	03-01-23								 100.00									
+		204	Ruggiero,Kandy,Ms.			 115.20	N	02-26-23								 329.40									
+		231	Folchetti,Robert			 95.40	N	02-28-23								 95.40									
+		300	Green,Ruthanne			 99.00	N	02-28-23								 99.00									
+		325	Phillips,William			 77.27	N	02-28-23								 77.27									
+		330	Kerr,Robert			 108.90	N	02-28-23								 108.90									
+																				
+					Departure Date 03-01-23 Total																				
+										 0.00		 0.00		 0.00		 809.97		 0.00		 0.00		 0.00		 809.97	
+		115	Hartman,Michael			 94.93	N	02-27-23								 282.93									
+		202	Hayden,Kris			 114.68	N	03-01-23								 114.68									
+		205	Mesure,Stephen			 97.70	N	03-01-23								 97.70									
+																				
+							Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																					
+		206	Prout,Alan			 81.40	N	03-01-23									 81.40					
+		213	Coil,Katie			 124.00	N	03-01-23									 124.00					
+		215	Mawn,Daniel			 116.00	N	03-01-23									 116.00					
+		302	Bourdeau,Carole			 124.00	N	03-01-23									 124.00					
+		307	Williams,Evan			 104.40	N	03-01-23									 104.40					
+		313	Lamarche,Josee			 124.00	N	03-01-23									 124.00					
+		317	Cole,Crystal			 80.00	N	02-21-23									 720.00					
+		331	Carlson,Richard			 98.00	N	03-01-23									 98.00					
+		9099	EF Tours			 0.00	N	03-01-23									 807.50					
+																	
+					Departure Date 03-02-23 Total																	
+										 0.00			 0.00		 0.00		 2,794.61	 0.00	 0.00	 0.00	 2,794.61	
+		103	Weaver,Chad			 87.03	N	03-02-23									 87.03					
+		110	Roberts,Gary			 117.90	N	03-02-23									 117.90					
+		116	Wilson,William			 99.90	N	03-02-23									 99.90					
+		226	Wilson,Gary			 107.36	N	03-01-23									 214.72					
+		301	Mitchell,Gail			 94.93	N	03-02-23									 94.93					
+		306	Irizarry,Giuseppe			 103.00	N	03-02-23									 103.00					
+		309	Etzell,Sonja			 111.00	N	03-01-23									 227.00					
+		316	Waller,Maureen,Mrs.			 122.40	N	03-02-23									 122.40					
+		321	Smith,Beth			 111.00	N	03-02-23									 111.00					
+		323	Brewster,Jennifer			 99.00	N	03-02-23									 99.00					
+		330	Jones,Derrick			 122.40	N	03-02-23									 122.40					
+					Departure Date 03-03-23 Total																	
+										 0.00			 0.00		 0.00		 1,399.28	 0.00	 0.00	 0.00	 1,399.28	
+																	
+		101	Lester,William,Mr.			 126.00	N	03-01-23									 331.20					
+		104	Kiehl,Brian			 69.00	N	03-03-23									 69.00					
+		114	Kramer,Shimon			 215.26	N	03-01-23									 543.32					
+		116	Fenton,Robert			 111.60	N	03-03-23									 111.60					
+		201	Bradley,Michael			 87.20	N	03-01-23									 261.60					
+		203	Bradley,Patrick,Mr.			 116.00	N	03-01-23									 290.40					
+																	
+						Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from All Tax	Exempt from Federal Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	NOT EXEMPT FOR ALL TAX	Exempt from State Tax	Exempt from State Tax	
+																								
+		210	Keller,Adam			 164.78	N	03-03-23								 164.78									
+		307	Winther,Deborah,Ms.			 138.00	N	03-03-23								 138.00									
+		327	Boisvert,Natalie			 124.00	N	03-03-23								 124.00									
+		328	Brunner,Michael			 107.31	N	03-03-23								 107.31									
+		330	Thomas,Katelyn			 168.30	N	03-03-23								 168.30									
+																				
+					Departure Date 03-04-23 Total																				
+										 0.00		 0.00		 0.00		 2,309.51		 0.00		 0.00		 0.00		 2,309.51	
+		109	Miller,Elizabeth			 69.00	N	03-04-23								 69.00									
+		113	Brown-wright,Rita			 88.00	N	03-05-23								 88.00									
+		114	Wisenbaler,Mark			 227.00	N	03-04-23								 227.00									
+		115	Davidyock,Peter			 127.76	N	03-04-23								 127.76									
+		116	Eger,Preston			 97.38	N	03-04-23								 97.38									
+		200	Dunmeyer,Amber			 120.69	N	03-04-23								 120.69									
+		202	Weddle,Alecia			 125.73	N	03-04-23								 125.73									
+		207	Scogna,Mike			 135.00	N	03-04-23								 135.00									
+		208	Twigg,Lisa			 195.00	N	03-04-23								 195.00									
+		211	Moulton,Sarah			 121.50	N	03-04-23								 121.50									
+		215	Wiseman,Robyn			 139.00	N	03-03-23								 282.00									
+		231	Smith,Dixon			 108.00	N	03-02-23								 306.45									
+		232	Wiseman,Robert			 139.00	N	03-03-23								 282.00									
+		303	Daugherty,James			 139.00	N	03-03-23								 281.00									
+		304	Hoover,Alicia			 173.01	N	03-03-23								 348.02									
+		305	Meloche,Julie			 125.00	N	03-04-23								 125.00									
+		308	Foster,Jeffrey			 128.68	N	03-03-23								 274.03									
+		309	Sandy,Carolyn			 117.45	N	03-04-23								 117.45									
+		311	Wylie,Wayne			 108.02	N	03-03-23								 216.04									
+		316	Quyyum,Asif			 206.80	N	03-03-23								 412.67									
+		317	Volkman,Paul,Mr.			 69.00	N	03-03-23								 138.00									
+		318	Quyyum,Asif			 204.92	N	03-03-23								 407.96									
+		320	Donahue,Melanie			 166.38	N	02-24-23								 1,392.14									
+		326	Quyyum,Asif			 183.31	N	03-03-23								 342.18									
+						Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																				
+					Departure Date 03-05-23 Total																
+										 0.00		 0.00		 0.00		 6,232.00	 0.00	 0.00	 0.00	 6,232.00	
+		101	Conrad,Brian			 98.00	N	03-05-23								 98.00					
+		108	Palmer,Dominique			 90.00	N	03-06-23								 90.00					
+		111	Fazio,John,Mr.			 103.50	N	03-05-23								 103.50					
+		116	Stapleton,Jim			 90.00	N	03-05-23								 90.00					
+		217	Kirby,Karen			 72.68	N	03-03-23								 268.90					
+		223	Godwin,Debra			 103.00	N	03-05-23								 103.00					
+		231	Nash,Scott			 83.30	N	03-05-23								 83.30					
+		305	Rosso,Dan			 90.00	N	03-05-23								 90.00					
+		306	Clapp,Sierra			 83.88	N	03-04-23								 188.53					
+		316	Waller,Maureen,Mrs.			 97.20	N	03-05-23								 97.20					
+		328	Crouse,Stacey			 96.30	N	03-05-23								 96.30					
+																
+					Departure Date 03-06-23 Total																
+										 0.00		 0.00		 0.00		 1,308.73	 0.00	 0.00	 0.00	 1,308.73	
+		101	Faul,Terence			 96.00	N	03-06-23								 96.00					
+		103	nervo,joanna			 110.88	N	03-06-23								 110.88					
+		109	Greiner,Marilyn			 91.52	N	03-06-23								 91.52					
+		205	Hasenplug,Ivy			 108.10	N	03-05-23								 215.26					
+		206	Nelson,Alexandra			 102.87	N	03-05-23								 220.32					
+		225	Casella,Patricia			 81.00	N	03-05-23								 161.00					
+		323	Kimball,Robert			 104.00	N	03-06-23								 104.00					
+		326	Manning,Mike			 93.60	N	03-06-23								 93.60					
+		327	King,Diana			 85.00	N	03-06-23								 85.00					
+		332	Cunningham,Dillon			 83.20	N	03-06-23								 83.20					
+					Departure Date 03-07-23 Total																
+										 0.00		 0.00		 0.00		 1,260.78	 0.00	 0.00	 0.00	 1,260.78	
+		115	Mccarthy,Kevin			 85.50	N	03-06-23								 179.10					
+		304	Fahrer,Brent			 135.90	N	03-06-23								 250.20					
+																
+							Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from All Tax	Exempt from Federal Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	NOT EXEMPT FOR ALL TAX	Exempt from State Tax	Exempt from State Tax	
+																									
+		305	Badlam,Ruthann			 100.00	N	03-07-23									 100.00									
+		307	Dean,Larissa Helen			 82.30	N	03-05-23									 246.90									
+		309	Dixon,Mary			 95.00	N	03-07-23									 95.00									
+		329	Broomfield,Mason			 100.00	N	03-07-23									 100.00									
+																					
+					Departure Date 03-08-23 Total																					
+										 0.00			 0.00		 0.00		 971.20		 0.00		 0.00		 0.00		 971.20	
+		114	Phippin,Tiffany			 162.00	N	03-08-23									 162.00									
+		115	Kramer,David			 106.21	N	03-08-23									 106.21									
+		200	Prophett,Christian			 108.00	N	03-08-23									 108.00									
+		210	Compton,Jared			 162.00	N	03-05-23									 664.00									
+		217	Jacobs,Thomas			 105.00	N	03-08-23									 105.00									
+		223	MacMaster,Yvonne			 105.00	N	03-08-23									 105.00									
+		227	Zwilling,Thomas			 105.00	N	03-08-23									 105.00									
+		228	Cameron,Melissa			 98.00	N	03-08-23									 98.00									
+		231	Cummings,Kasey			 87.30	N	03-06-23									 266.40									
+		303	Tulis,Spencer			 108.00	N	03-08-23									 108.00									
+		308	Nick,Staples			 111.60	N	03-08-23									 111.60									
+		309	Bromfield,Kathleen			 94.50	N	03-08-23									 94.50									
+		321	Stanley,Elijah			 108.00	N	03-08-23									 108.00									
+		323	Geisler,George			 95.04	N	03-08-23									 95.04									
+		325	Duval,Beverley			 94.50	N	03-08-23									 94.50									
+		331	Evans,Patricia			 105.00	N	03-08-23									 105.00									
+																					
+					Departure Date 03-09-23 Total																					
+										 0.00			 0.00		 0.00		 2,436.25		 0.00		 0.00		 0.00		 2,436.25	
+		109	Czornobil,christina			 98.00	N	03-09-23									 98.00									
+		116	Wright,William			 88.20	N	03-09-23									 88.20									
+		201	Borelli,Dan			 86.24	N	03-09-23									 86.24									
+		205	Kintz,James			 90.00	N	03-09-23									 90.00									
+		207	Bingham,Michael			 98.00	N	03-09-23									 98.00									
+		211	Pareek,Ankur			 82.81	N	03-09-23									 82.81									
+																					
+							Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																					
+		215	Greene,Sharon			 106.00	N	03-09-23									 106.00					
+		231	Lev Mulder,Deborah			 77.27	N	03-09-23									 77.27					
+		300	Creager,Jim			 93.60	N	03-08-23									 188.10					
+		319	Lee,Bonnie			 78.03	N	03-08-23									 153.00					
+		324	Twigg,Lisa			 124.99	N	03-09-23									 124.99					
+																	
+					Departure Date 03-10-23 Total																	
+										 0.00			 0.00		 0.00		 1,192.61	 0.00	 0.00	 0.00	 1,192.61	
+		104	Hosmer,Douglas,Mr.			 121.50	N	03-10-23									 121.50					
+		106	Jantzi,Kevin			 207.00	N	03-10-23									 207.00					
+		107	Menter,John			 130.00	N	03-10-23									 130.00					
+		108	Bradish,Ina			 157.00	N	03-10-23									 157.00					
+		109	Eastridge,Glen			 121.50	N	03-10-23									 121.50					
+		111	Frank,Mark,Mr.			 130.00	N	03-10-23									 130.00					
+		113	Dunn,Caitria			 118.44	N	03-10-23									 118.44					
+		116	Archambault,Frank			 135.00	N	03-10-23									 135.00					
+		202	Ream,Wallace			 122.40	N	03-10-23									 122.40					
+		203	Buckley,Christina			 130.65	N	03-10-23									 130.65					
+		216	Nelson,Lanny			 187.07	N	03-03-23									 1,259.64					
+		231	Jackson,Dave			 155.40	N	03-10-23									 155.40					
+		304	Metzger,John			 138.00	N	03-10-23									 138.00					
+		306	Carlson,Richard			 166.32	N	03-10-23									 166.32					
+		313	Spinelli,Rita			 162.00	N	03-10-23									 162.00					
+		317	Feretti, Peter			 145.00	N	03-10-23										 145.00				
+		318	Roberts,Ryan			 183.31	N	03-09-23									 337.47					
+		9095	HotelRoom Blocks/ MAN/MLAX/2223/MM			 0.00	N	03-10-23									 725.00	 2,755.00				
+																	
+					Departure Date 03-11-23 Total																	
+										 0.00			 0.00		 0.00		 4,317.32	 2,900.00	 0.00	 0.00	 7,217.32	
+		106	Epps,Thomas			 167.00	N	03-12-23									 167.00					
+		108	Mattox,Bonnie			 130.50	N	03-11-23									 130.50					
+																	
+							Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from All Tax	Exempt from Federal Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	NOT EXEMPT FOR ALL TAX	Exempt from State Tax	Exempt from State Tax	
+																									
+		111	Knabb,Gregg			 130.50	N	03-11-23									 130.50									
+		113	Sabbia,Donna			 130.50	N	03-11-23									 130.50									
+		114	Roesinger,Brea			 221.40	N	03-11-23									 221.40									
+		115	Gilbertson,Alexandra			 124.20	N	03-09-23									 352.80									
+		200	Taylor,Hailey			 125.06	N	03-10-23									 234.06									
+		201	Szwech,Kim			 132.30	N	03-10-23									 261.90									
+		205	Stallings,Christina			 148.00	N	03-11-23									 148.00									
+		210	Atiyeh,Arianne			 123.30	N	03-11-23									 123.30									
+		211	Kaydo,Michael			 141.30	N	03-11-23									 141.30									
+		215	Rogers,Renee			 145.00	N	03-11-23									 145.00									
+		216	Zuber,Lewis			 198.90	N	03-11-23									 198.90									
+		219	Lovelidge,Sandy			 115.17	N	03-10-23									 230.34									
+		220	Smith,Carolynn			 155.70	N	03-11-23									 155.70									
+		231	Heckert,Cathy			 100.29	N	03-11-23									 100.29									
+		232	Walker,Paige			 154.00	N	03-09-23									 395.00									
+		305	Ward,William			 98.00	N	03-11-23									 98.00									
+		308	Steinert,Heidi			 135.20	N	03-10-23									 267.86									
+		309	Kaydo,Michael			 141.30	N	03-11-23									 141.30									
+		310	Gonnella,Shelia			 204.92	N	03-11-23									 204.92									
+		311	Salita,Laurie			 135.90	N	03-09-23									 369.90									
+		314	Salita,Laurie			 203.40	N	03-10-23									 379.80									
+		318	Kammar,Colleen			 69.00	N	03-11-23									 69.00									
+		319	Lovelidge,Sandy			 115.17	N	03-10-23									 230.34									
+		321	Staub,Ruthie			 146.64	N	03-11-23									 146.64									
+		322	Salita,Laurie			 30.00	N	03-10-23									 54.06									
+		324	Woodin,William			 130.50	N	03-11-23									 130.50									
+																					
+					Departure Date 03-12-23 Total																					
+										 0.00			 0.00		 0.00		 5,358.81		 0.00		 0.00		 0.00		 5,358.81	
+		111	Frank,Mark,Mr.			 98.00	N	03-12-23									 98.00									
+		200	Whitmeyer,Cheryl			 98.00	N	03-12-23									 98.00									
+		203	Voorshhs,Ella			 85.50	N	03-11-23									 216.00									
+																					
+						Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																				
+		221	Shipula,Anthony			 98.00	N	03-12-23								 98.00					
+		225	Turner,Alexis			 95.00	N	03-12-23								 95.00					
+		227	Matthews,Julie			 124.20	N	03-09-23								 547.20					
+		300	Shirley,David			 97.20	N	03-11-23								 243.90					
+		303	Seekins,Kevin			 81.40	N	03-09-23								 382.28					
+		304	Bandera,Lucas			 107.00	N	03-12-23								 107.00					
+		318	Wakefield,Isaac			 135.20	N	03-12-23								 135.20					
+																
+					Departure Date 03-13-23 Total																
+										 0.00		 0.00		 0.00		 2,020.58	 0.00	 0.00	 0.00	 2,020.58	
+		112	Anselone,Paula			 112.00	N	03-12-23								 224.00					
+		114	Dressel,Debra			 175.00	N	03-13-23								 175.00					
+		115	Anselone,Paula			 112.00	N	03-12-23								 224.00					
+																
+					Departure Date 03-14-23 Total																
+										 0.00		 0.00		 0.00		 623.00	 0.00	 0.00	 0.00	 623.00	
+		115	Halpin,Donald			 78.64	N	03-14-23								 78.64					
+		215	Carrey,Claude			 92.40	N	03-14-23								 92.40					
+		217	Fulmor Jr,Howard			 89.10	N	03-14-23								 89.10					
+		231	Eagen,Deborah			 88.20	N	03-14-23								 88.20					
+		300	Fuchs,Wendy			 92.70	N	03-14-23								 92.70					
+		305	Durham,Darius			 76.05	N	03-13-23								 159.70					
+		306	Hart,Jonathan			 104.00	N	03-14-23								 104.00					
+		307	Blair,Brent			 76.05	N	03-13-23								 159.70					
+		308	Burnell,Heather			 89.60	N	03-13-23								 181.60					
+		309	Christiansen,Nancy			 105.00	N	03-14-23								 105.00					
+		328	Papa,Anthony			 92.12	N	03-14-23								 92.12					
+		330	Whiting,Michelle			 87.03	N	03-14-23								 87.03					
+					Departure Date 03-15-23 Total																
+										 0.00		 0.00		 0.00		 1,330.19	 0.00	 0.00	 0.00	 1,330.19	
+		101	Romans,Jennifer			 102.08	N	03-15-23								 102.08					
+																
+						Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from All Tax	Exempt from Federal Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	NOT EXEMPT FOR ALL TAX	Exempt from State Tax	Exempt from State Tax	
+																								
+		108	Turkeli,Gokhan			 84.00	N	03-15-23								 84.00									
+		115	Hanssen,Andreea			 86.48	N	03-15-23								 86.48									
+		200	Fortin,Carole			 106.00	N	03-15-23								 106.00									
+		209	Ray,Bryan			 90.64	N	03-15-23								 90.64									
+		222	Trottier,David			 132.30	N	03-15-23								 132.30									
+		304	Kenison,Stephanie			 116.00	N	03-15-23								 116.00									
+		311	Welch,Conor			 76.50	N	03-15-23								 76.50									
+		316	Clark,Joy			 140.00	N	03-11-23								 786.00									
+		325	Angle,Kaylee			 80.19	N	03-14-23								 173.34									
+		326	King,Mickey			 118.44	N	03-15-23								 118.44									
+		327	Scarlata,Matthew			 78.80	N	03-15-23								 78.80									
+		329	Frosini,Johnna			 92.70	N	03-15-23								 92.70									
+		331	Botha,Riaan			 83.43	N	03-15-23								 83.43									
+																				
+					Departure Date 03-16-23 Total																				
+										 0.00		 0.00		 0.00		 2,126.71		 0.00		 0.00		 0.00		 2,126.71	
+		101	Richtmeyer,David			 116.00	N	03-16-23								 116.00									
+		203	Rivera,Jessica			 109.00	N	03-16-23								 109.00									
+		204	Krasovec,Patricia			 96.90	N	03-16-23								 96.90									
+		210	Miniter,James			 141.00	N	03-14-23								 459.66									
+		213	Barry,Edward			 99.90	N	03-16-23								 99.90									
+		225	Hayward,Mickey			 95.88	N	03-16-23								 95.88									
+		228	Roan,Christopher			 118.80	N	03-15-23								 252.00									
+		231	Cook,Steven			 109.97	N	03-15-23								 203.04									
+		303	Smith,Brandon			 90.42	N	03-15-23								 177.45									
+		304	Stapleton,Connie,Ms.			 116.00	N	03-16-23								 116.00									
+		305	Bonser,Jamie			 80.00	N	03-15-23								 160.00									
+		307	Bonser,Jamie			 80.00	N	03-15-23								 160.00									
+		313	Berkowitz,Roni			 96.33	N	03-16-23								 96.33									
+		317	Grant,Kate			 74.21	N	03-16-23								 74.21									
+		323	Ciurzynski,John			 95.04	N	03-16-23								 95.04									
+		324	Sipes,Kathy			 87.20	N	03-16-23								 87.20									
+																				
+							Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																					
+					Departure Date 03-17-23 Total																	
+										 0.00			 0.00		 0.00		 2,398.61	 0.00	 0.00	 0.00	 2,398.61	
+		106	Hurlburt,David			 101.40	N	03-17-23									 101.40					
+		115	Hunter,Wesley			 102.51	N	03-16-23									 183.60					
+		202	Cook,Maria			 153.90	N	03-17-23									 153.90					
+		204	Fyfe,Bonnie			 119.07	N	03-17-23									 119.07					
+		213	Stapleton,Connie,Ms.			 116.00	N	03-17-23									 116.00					
+		216	Keithley,John			 269.85	N	03-15-23									 575.40					
+		224	Sah,Bethany			 129.44	N	03-17-23									 129.44					
+		230	garkowski,John			 93.75	N	03-17-23									 93.75					
+		231	templin,Susan			 93.75	N	03-17-23									 93.75					
+		304	Nelson,Joshua			 121.25	N	03-17-23									 121.25					
+		306	Hall,Tonya			 113.98	N	03-17-23									 113.98					
+		313	Younker,Gayle			 99.45	N	03-17-23									 99.45					
+		317	Turben,Casey			 130.00	N	03-17-23									 130.00					
+		328	Myers,Steven			 124.22	N	03-17-23									 124.22					
+		330	Clementi,Paul			 171.01	N	03-16-23									 305.01					
+		9097	EF Tours			 0.00	N	03-17-23									 1,947.50					
+																	
+					Departure Date 03-18-23 Total																	
+										 0.00			 0.00		 0.00		 4,407.72	 0.00	 0.00	 0.00	 4,407.72	
+		103	Murray,William,Mr.			 103.20	N	03-17-23									 205.80					
+		106	Martin,Kathryn			 216.00	N	03-18-23									 216.00					
+		108	Mccullough,Krystal			 156.04	N	03-17-23									 345.92					
+		110	Sypherd,Glenn			 148.52	N	03-17-23									 297.04					
+		111	Oldach,Becky			 92.00	N	03-15-23									 368.00					
+		113	Marshall,Elaine			 92.00	N	03-15-23									 368.00					
+		115	Regan,Thomas			 129.60	N	03-18-23									 129.60					
+		116	Chestnutt,Bernadette			 92.00	N	03-15-23									 368.00					
+		200	Rager,Alyssa			 154.00	N	03-18-23									 154.00					
+		201	Harvey,Christopher			 140.06	N	03-18-23									 140.06					
+																	
+						Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	
+																			
+		202	Painchaud,Genevieve			 110.16	N	03-18-23						 110.16						
+		203	Rushnock,Caitlin			 127.70	N	03-18-23						 127.70						
+		205	Bauer,Mike			 134.42	N	03-18-23						 134.42						
+		206	Smith,Kenneth			 138.47	N	03-17-23						 275.41						
+		208	Galvan,Jeffrey			 115.20	N	03-18-23						 115.20						
+		209	Wheeler,Erin			 136.05	N	03-18-23						 136.05						
+		210	Mineo,Laurie			 93.60	N	03-18-23						 93.60						
+		211	Catalina,Gabriel			 126.90	N	03-18-23						 126.90						
+		214	Walker,Patrick			 114.21	N	03-17-23						 234.90						
+		215	O'Mara,Chris			 119.88	N	03-18-23						 119.88						
+		217	Corley,Jason			 136.31	N	03-18-23						 136.31						
+		219	Walker,Cheryl J			 121.50	N	03-17-23						 246.60						
+		220	Palcheski,Rose			 80.00	N	03-17-23						 160.00						
+		222	Ormsby,Patricia			 80.00	N	03-17-23						 160.00						
+		223	Fryberger,Howard			 139.12	N	03-18-23						 139.12						
+		224	Sleczkowski,Kyle			 155.00	N	03-18-23						 155.00						
+		228	Rouse,James			 141.30	N	03-17-23						 282.60						
+		231	Bickett,Josh			 143.10	N	03-18-23						 143.10						
+		303	Buenger,Alexandria			 138.18	N	03-18-23						 138.18						
+		304	Nguyen,Cuong			 164.50	N	03-18-23						 164.50						
+		308	Abrol,Vikram			 156.00	N	03-18-23						 156.00						
+		310	Randall,Jason			 106.83	N	03-18-23						 106.83						
+		312	Bever,Britnea			 115.43	N	03-17-23						 230.86						
+		317	Turben,Casey			 153.00	N	03-18-23						 153.00						
+		318	Gallagher,Brian			 126.91	N	03-17-23						 257.56						
+		319	Guzzo Amatrudo,Mildred			 148.52	N	03-17-23						 297.04						
+		320	Talmadge,Mathew			 119.34	N	03-18-23						 119.34						
+		321	Toney,David			 171.00	N	03-15-23						 549.00						
+		322	Gallagher,Steven			 126.91	N	03-17-23						 257.56						
+		324	Wolford,Sean			 122.40	N	03-17-23						 258.40						
+		326	Piotrowski,Barbara			 158.40	N	03-17-23						 315.00						
+															
+							Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																					
+		328	Brasher,Bruce			 153.90	N	03-18-23									 153.90					
+		330	Sidwell,Slade			 140.97	N	03-18-23									 140.97					
+		9099	Lafayette Softball Team			 0.00	N	03-17-23									 3,198.00					
+																	
+					Departure Date 03-19-23 Total																	
+										 0.00			 0.00		 0.00		 11,985.51	 0.00	 0.00	 0.00	 11,985.51	
+		101	Durfee O'Brien,Maya			 72.68	N	03-19-23									 72.68					
+		103	Rosato,Lynn			 93.10	N	03-19-23									 93.10					
+		106	Wohlschlegel,Kathleen			 206.00	N	03-19-23									 206.00					
+		107	Lawson,Pamela			 100.32	N	03-18-23									 237.60					
+		108	Bernhard,George			 117.00	N	03-19-23									 117.00					
+		110	Krull,Samuel			 82.40	N	03-19-23									 82.40					
+		111	Pollard-White,Donna			 101.70	N	03-19-23									 101.70					
+		113	Buckwalter,Susan			 113.00	N	03-19-23									 113.00					
+		114	Fitzgerald,Lyndsay			 149.60	N	03-16-23									 704.00					
+		116	Rhodes,David,Mr.			 101.00	N	03-19-23									 101.00					
+		206	Laabs,Patrick			 87.88	N	03-19-23									 87.88					
+		213	Jaworski,Mary			 117.90	N	03-19-23									 117.90					
+		231	Jalette,Yves			 30.00	N	03-19-23									 27.03					
+		303	Desjardins,Richard			 101.00	N	03-19-23									 101.00					
+		304	Clark,Andrea			 85.00	N	03-19-23									 85.00					
+		307	Teale,Nathan			 101.00	N	03-19-23									 101.00					
+		314	Storck,Christopher			 112.80	N	03-17-23									 407.01					
+																	
+					Departure Date 03-20-23 Total																	
+										 0.00			 0.00		 0.00		 2,755.30	 0.00	 0.00	 0.00	 2,755.30	
+		108	Jesky,Michael			 105.30	N	03-20-23									 105.30					
+		110	Roberts,Gary			 119.70	N	03-20-23									 119.70					
+		112	Delpha,Beverly			 78.60	N	03-15-23									 526.20					
+		113	Hall,Bridget			 86.95	N	03-20-23									 86.95					
+																	
+							Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from All Tax	Exempt from Federal Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	NOT EXEMPT FOR ALL TAX	Exempt from State Tax	Exempt from State Tax	
+																									
+		114	Fitzgerald,Lyndsay			 157.50	N	03-20-23									 157.50									
+		115	Miller,Robert			 99.00	N	03-19-23									 198.00									
+		200	Schuse,Lynnette			 109.97	N	03-20-23									 109.97									
+		223	Russo,Lori			 102.60	N	03-20-23									 102.60									
+		230	Swansburg,Sue			 101.00	N	03-20-23									 101.00									
+		305	Giles,Michael			 76.25	N	03-20-23									 76.25									
+		317	Divincenzo-Calagoure,Maria Vittori			 85.34	N	03-20-23									 85.34									
+		323	Webb,John			 114.00	N	03-20-23									 114.00									
+																					
+		325	Laporte,Richere			 84.50	N	03-20-23									 84.50									
+					Departure Date 03-21-23 Total																					
+										 0.00			 0.00		 0.00		 1,867.31		 0.00		 0.00		 0.00		 1,867.31	
+		101	Duncan,Kizzy			 118.80	N	03-21-23									 118.80									
+		104	Hansen,Amy			 108.90	N	03-14-23									 929.70									
+		106	Ashton,William			 132.00	N	03-21-23									 132.00									
+		107	Bryan,David			 96.81	N	03-21-23									 96.81									
+		110	Taylor,Theodore			 90.00	N	03-21-23									 90.00									
+		112	Copithorne,Kevin			 98.69	N	03-21-23									 98.69									
+		113	Romero Hoyos,Alexander			 86.19	N	03-21-23									 86.19									
+		205	Idrizi,Haneme			 91.09	N	03-21-23									 91.09									
+		209	Carpenter,Dakota			 103.00	N	03-21-23									 103.00									
+		211	Bragg,Lindy			 91.80	N	03-21-23									 91.80									
+		216	Mcglynn,Rhonda			 100.00	N	03-20-23									 201.00									
+		218	Pekar,Donna			 30.00	N	02-06-23									 349.32									
+		219	Rella,Luigi			 82.62	N	03-21-23									 82.62									
+		223	cloutier,richard			 102.00	N	03-21-23									 102.00									
+		226	Degraff,Michael			 135.00	N	03-21-23									 135.00									
+		303	Mitchell,Gail			 81.81	N	03-21-23									 81.81									
+		305	Trojanov,Carol			 102.99	N	03-21-23									 102.99									
+		308	Esposito,Frank			 109.80	N	03-21-23									 109.80									
+																					
+							Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																					
+		316	Dimarco,Anne			 150.40	N	03-16-23									 1,019.90					
+		319	Inman,Cheryl			 86.45	N	03-21-23									 86.45					
+		321	Coyle,Karen			 103.00	N	03-21-23									 103.00					
+		323	Beachy,Quartney			 103.00	N	03-21-23									 103.00					
+		9099	AE-126			 0.00	N	03-21-23									 1,890.00					
+																	
+					Departure Date 03-22-23 Total																	
+										 0.00			 0.00		 0.00		 6,204.97	 0.00	 0.00	 0.00	 6,204.97	
+		103	Pham,Hai			 95.88	N	03-21-23									 190.81					
+		106	Bobbe,Laura			 179.00	N	03-22-23									 179.00					
+		107	Edwards,Timothy			 95.92	N	03-22-23									 95.92					
+		111	Eaton,Nancy			 109.00	N	03-22-23									 109.00					
+		112	Cook,Christopher			 80.80	N	03-22-23									 80.80					
+		113	Zimmerman,Daniel			 109.00	N	03-22-23									 109.00					
+		114	Lenzini,John			 104.00	N	03-21-23									 216.00					
+		115	Buffington,ken			 89.10	N	03-21-23									 179.10					
+		200	Fitch,Michael			 97.20	N	03-21-23									 194.40					
+		202	Sekinger,Brian			 99.00	N	03-21-23									 199.00					
+		203	Panzer,Julie			 81.09	N	03-20-23									 241.74					
+		206	Bodell,Myron			 104.00	N	03-21-23									 216.00					
+		210	bagwell,Robert Brooks			 134.64	N	03-22-23									 134.64					
+		213	Bodell,Myron			 104.00	N	03-21-23									 216.00					
+		215	Pfennig,Brian			 94.00	N	03-20-23									 288.58					
+		219	Parsons,Renata			 81.02	N	03-22-23									 81.02					
+		229	Heimer,Teresa			 110.70	N	03-19-23									 438.30					
+		230	Devault,Stephen			 98.86	N	03-21-23									 202.29					
+		300	Laure,David			 75.00	N	03-19-23									 300.00					
+		301	Davis,Rebecca			 116.56	N	03-22-23									 116.56					
+		309	Walsh,John			 81.81	N	03-22-23									 81.81					
+		313	Harris,Rachel			 112.34	N	03-22-23									 112.34					
+		317	Lenzini,John			 93.60	N	03-21-23									 194.40					
+																	
+							Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from All Tax	Exempt from Federal Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	NOT EXEMPT FOR ALL TAX	Exempt from State Tax	Exempt from State Tax	
+																									
+		319	Wisehart,Dan			 77.27	N	03-22-23									 77.27									
+		325	Connelly,Ed			 96.82	N	03-22-23									 96.82									
+		330	Cherogan,Jacob Matthew			 85.85	N	03-22-23									 85.85									
+																					
+					Departure Date 03-23-23 Total																					
+										 0.00			 0.00		 0.00		 4,436.65		 0.00		 0.00		 0.00		 4,436.65	
+		107	Shank,John Wayne			 102.00	N	03-23-23									 102.00									
+		111	Cirtwell,Richard			 102.00	N	03-23-23									 102.00									
+		113	Mahoney,Peter and Lise			 102.00	N	03-23-23									 102.00									
+		115	Eggleston,Thomas			 102.46	N	03-23-23									 102.46									
+		116	Jenkins,Gloria			 101.52	N	03-20-23									 392.90									
+		200	Yoder,Andrew			 86.19	N	03-23-23									 86.19									
+		201	Reichel,Sascha Martin			 85.60	N	03-21-23									 249.60									
+		215	Lewis,Robert			 102.00	N	03-23-23									 102.00									
+		227	Lieber,Thomas			 60.69	N	03-23-23									 60.69									
+		232	Walker,Robert			 86.19	N	03-23-23									 86.19									
+		303	Annin,Arthur			 84.15	N	03-23-23									 84.15									
+		307	Jaques,P Ann			 83.40	N	03-22-23									 168.39									
+		327	Jenkins,Bret			 101.52	N	03-20-23									 392.90									
+		329	Walker,Robert			 86.19	N	03-23-23									 86.19									
+																					
+					Departure Date 03-24-23 Total																					
+										 0.00			 0.00		 0.00		 2,117.66		 0.00		 0.00		 0.00		 2,117.66	
+		107	Alessio,Terri			 127.98	N	03-24-23									 127.98									
+		110	Foote,Nicola			 176.00	N	03-24-23									 176.00									
+		112	Middleton,Angela			 135.00	N	03-24-23									 135.00									
+		113	Higgs,William			 161.00	N	03-24-23									 161.00									
+		200	Doyle,Terance			 144.90	N	03-24-23									 144.90									
+		203	Snyder,Jeanne			 123.30	N	03-23-23									 220.50									
+		211	Scaletti,Laura			 98.00	N	03-23-23									 196.00									
+																					
+							Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																					
+		214	Lamb,Erin			 170.00	N	03-24-23									 170.00					
+		215	Smith,Brandon			 158.00	N	03-24-23									 158.00					
+		216	Williams,Mcclain			 225.28	N	03-23-23									 348.48					
+		219	Mccartney,Sean			 128.80	N	03-24-23									 128.80					
+		220	Hunsberger,Matt			 145.35	N	03-24-23									 145.35					
+		221	Schroff,Dennis			 131.40	N	03-24-23									 131.40					
+		232	Roy,Chris			 96.90	N	03-24-23									 96.90					
+		304	Gilliard,Elliott			 152.10	N	03-24-23									 152.10					
+		313	Simmons,Franklin			 167.40	N	03-24-23									 167.40					
+		317	Simmons,Franklin			 169.20	N	03-24-23									 169.20					
+		327	Duncan,Norleen			 125.02	N	03-24-23									 125.02					
+		328	Leyshon,Thomas			 132.54	N	03-24-23									 132.54					
+		330	Morneau,Julia			 132.54	N	03-24-23									 132.54					
+		9094	Darlene Rudrick			 0.00	N	03-23-23									 1,520.00					
+		9099	Lycoming College			 0.00	N	03-24-23									 1,250.00					
+																	
+					Departure Date 03-25-23 Total																	
+										 0.00			 0.00		 0.00		 5,989.11	 0.00	 0.00	 0.00	 5,989.11	
+		103	Destefano,Linda			 174.00	N	03-24-23									 357.00					
+		104	Barrett,William			 155.10	N	03-24-23									 330.88					
+		107	Riese,Josh			 123.91	N	03-25-23									 123.91					
+		108	Piper,Katelynn			 183.77	N	03-23-23									 502.57					
+		111	Smith,Jasmine			 113.98	N	03-24-23									 213.43					
+		112	Mccarthy,Brian			 128.79	N	03-25-23									 128.79					
+		114	Hull,Jennifer			 146.40	N	03-25-23									 146.40					
+		115	Kinsella,Timothy			 135.00	N	03-25-23									 135.00					
+		116	Tomlinson,Robert			 142.88	N	03-24-23									 266.01					
+		200	Marshall,Michael			 156.00	N	03-25-23									 156.00					
+		201	Jones,Bryant			 127.92	N	03-24-23									 263.22					
+		202	Smith,Marion			 163.68	N	03-24-23									 327.36					
+		203	Olsaver,Michael			 152.10	N	03-25-23									 152.10					
+		206	Mascia,Jeanna			 126.45	N	03-24-23									 255.08					
+																	
+						Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from City Tax	Exempt from All Tax	Exempt from Federal Tax	NOT EXEMPT FOR ALL TAX	
+																			
+		208	Moshe,Raanan			 160.00	N	03-25-23						 160.00						
+		211	Donato,Anita			 138.00	N	03-25-23						 138.00						
+		213	Cantrell,Donald			 105.47	N	03-24-23						 218.13						
+		215	Mullaly,Bridget			 123.37	N	03-25-23						 123.37						
+		217	Lefever,Grace			 141.30	N	03-23-23						 363.96						
+		219	Govindaraju,Gokulnathan			 135.20	N	03-26-23						 135.20						
+		220	Mcdonald,Jade			 148.52	N	03-25-23						 148.52						
+		221	Guiliano,Jamie			 114.75	N	03-25-23						 114.75						
+		222	Krause,Lee			 163.80	N	03-25-23						 163.80						
+		223	Stephenson,Mary			 119.05	N	03-23-23						 311.61						
+		224	Lombardo,James			 144.90	N	03-25-23						 144.90						
+		225	Salita,Laurie			 131.12	N	03-23-23						 343.20						
+		226	Kennel,Joanne			 111.99	N	03-25-23						 111.99						
+		227	Pick,Mary			 140.40	N	03-25-23						 280.80						
+		229	May,Patrick,Mr.			 30.00	N	03-25-23						 27.03						
+		230	Richards,Chelsea			 140.94	N	03-25-23						 140.94						
+		231	Mitchell,Charles			 82.80	N	03-20-23						 612.00						
+		232	Dickinson,Amber			 135.00	N	03-25-23						 135.00						
+		300	Amspacher,Kayla			 137.28	N	03-25-23						 137.28						
+		301	Hitchcock,Ashlie			 130.65	N	03-25-23						 130.65						
+		303	Szwech,Kim			 91.20	N	03-24-23						 171.00						
+		304	Weatherhog,Nancy			 172.80	N	03-25-23						 172.80						
+		305	Arnold,Gina			 141.93	N	03-22-23						 461.51						
+		307	Vincent,tara			 137.28	N	03-24-23						 257.84						
+		309	Larue,Erin			 144.00	N	03-25-23						 144.00						
+		312	Young,Christopher			 128.00	N	03-25-23						 128.00						
+		313	Leban,Jacqueline			 134.10	N	03-25-23						 134.10						
+		314	Salita,Laurie			 158.40	N	03-24-23						 314.16						
+		316	Kline,Maralah			 190.80	N	03-24-23						 379.80						
+		319	Mills,Devin			 110.81	N	03-25-23						 110.81						
+		322	Johnson,Kennedy			 142.20	N	03-25-23						 142.20						
+															
+					Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Exempt from State and Federal Taxes	Guests without Tax Type	Guests without Tax Type	
+																			
+	323	Johnson,Kennedy			 135.00	N		03-25-23							 135.00					
+	324	Kramer,Haley			 155.00	N		03-25-23							 155.00					
+	325	Forsyth,Lilarose			 108.29	N		03-25-23							 108.29					
+	326	Hennessy,Brian			 132.00	N		03-24-23							 273.00					
+	327	Mastrocola,Ron			 131.40	N		03-25-23							 131.40					
+	328	Wulff,Jennifer			 153.79	N		03-25-23							 153.79					
+	329	Cliff,Schamber			 137.70	N		03-24-23							 277.20					
+	332	Hillger,Barb			 121.50	N		03-25-23							 121.50					
+				Departure Date 03-26-23 Total																
+									 0.00		 0.00		 0.00		 11,070.28	 0.00	 0.00	 0.00	 11,070.28	
+															
+																			
+									 0.00		 0.00		 0.00		 121,636.33	 2,900.00	 0.00	 0.00	 124,536.33	
