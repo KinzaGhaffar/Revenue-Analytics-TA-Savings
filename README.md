@@ -1,6 +1,6 @@
 # Revenue Analytics TA Savings
 
-##About
+## About
 The is a web application designed for hotel properties that utilize property management systems (PMS) and integrate with booking agents such as Booking.com, Agoda.com, and others. The application leverages APIs to retrieve data from both property providers and booking agents, enabling detailed analysis and comparison using various business formulas. The primary goal is to provide hotels with comprehensive insights into their reservations, budgets, incoming bookings, room occupancy rates, and future forecasts. The application features a customizable dashboard tailored to user preferences.
 
 ## Dependencies:
